@@ -1,0 +1,82 @@
+{
+  "wines_by": [
+    {
+      "tag": "type",
+      "name": "Type"
+    },
+    {
+      "tag": "style",
+      "name": "Style"
+    },
+    {
+      "tag": "country",
+      "name": "Countries"
+    },
+    {
+      "tag": "grape",
+      "name": "Grape"
+    }
+  ],
+  "carousel": [
+    {
+      "name": "Chateau Margaux 2015",
+      "image": "https://example.com/wine1.jpg",
+      "critic_score": 97,
+      "bottle_size": "750 ml",
+      "price_usd": 750,
+      "type": "red",
+      "from": {
+        "country": "France 🇫🇷",
+        "city": "Bordeaux"
+      }
+    },
+    {
+      "name": "Cloudy Bay Sauvignon Blanc 2020",
+      "image": "https://example.com/wine2.jpg",
+      "critic_score": 92,
+      "bottle_size": "750 ml",
+      "price_usd": 30,
+      "type": "white",
+      "from": {
+        "country": "New Zealand 🇳🇿",
+        "city": "Marlborough"
+      }
+    },
+    {
+      "name": "Moet & Chandon Imperial Brut",
+      "image": "https://example.com/wine3.jpg",
+      "critic_score": 89,
+      "bottle_size": "750 ml",
+      "price_usd": 50,
+      "type": "sparkling",
+      "from": {
+        "country": "France 🇫🇷",
+        "city": "Champagne"
+      }
+    },
+    {
+      "name": "Penfolds Grange 2016",
+      "image": "https://example.com/wine4.jpg",
+      "critic_score": 98,
+      "bottle_size": "750 ml",
+      "price_usd": 850,
+      "type": "red",
+      "from": {
+        "country": "Australia 🇦🇺",
+        "city": "Barossa Valley"
+      }
+    },
+    {
+      "name": "Gavi di Gavi La Scolca 2019",
+      "image": "https://example.com/wine5.jpg",
+      "critic_score": 90,
+      "bottle_size": "750 ml",
+      "price_usd": 40,
+      "type": "white",
+      "from": {
+        "country": "Italy 🇮🇹",
+        "city": "Piedmont"
+      }
+    }
+  ]
+}
